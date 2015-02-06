@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.0.7
-Release:	15
+Release:	16
 Summary:	IRC client class
 License:	PHP License
 Group:		Development/PHP
